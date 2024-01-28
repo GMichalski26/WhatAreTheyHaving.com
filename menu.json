@@ -1,0 +1,793 @@
+[
+    {
+        "day": 1,
+        "meals": {
+            "lunch": {
+                "entree": "Fish and Chips",
+                "sides": [
+                    "Rice Pilaf",
+                    "Fruit Cup",
+                    "Mashed Potatoes",
+                    "Bread Roll"
+                ]
+            },
+            "dinner": {
+                "entree": "Beef Stew",
+                "sides": [
+                    "Mashed Potatoes",
+                    "Bread Roll",
+                    "Rice Pilaf"
+                ]
+            }
+        }
+    },
+    {
+        "day": 2,
+        "meals": {
+            "lunch": {
+                "entree": "Spaghetti",
+                "sides": [
+                    "Rice Pilaf",
+                    "Mashed Potatoes",
+                    "Steamed Vegetables",
+                    "Bread Roll"
+                ]
+            },
+            "dinner": {
+                "entree": "Grilled Chicken",
+                "sides": [
+                    "Garden Salad",
+                    "Fruit Cup",
+                    "Mashed Potatoes",
+                    "Steamed Vegetables"
+                ]
+            }
+        }
+    },
+    {
+        "day": 3,
+        "meals": {
+            "lunch": {
+                "entree": "Beef Stew",
+                "sides": [
+                    "Bread Roll",
+                    "Steamed Vegetables",
+                    "Fruit Cup"
+                ]
+            },
+            "dinner": {
+                "entree": "Beef Stew",
+                "sides": [
+                    "Garden Salad",
+                    "Rice Pilaf",
+                    "Fruit Cup",
+                    "Steamed Vegetables"
+                ]
+            }
+        }
+    },
+    {
+        "day": 4,
+        "meals": {
+            "lunch": {
+                "entree": "Beef Stew",
+                "sides": [
+                    "Fruit Cup",
+                    "Steamed Vegetables",
+                    "Garden Salad",
+                    "Mashed Potatoes"
+                ]
+            },
+            "dinner": {
+                "entree": "Grilled Chicken",
+                "sides": [
+                    "Rice Pilaf",
+                    "Fruit Cup",
+                    "Garden Salad"
+                ]
+            }
+        }
+    },
+    {
+        "day": 5,
+        "meals": {
+            "lunch": {
+                "entree": "Fish and Chips",
+                "sides": [
+                    "Garden Salad",
+                    "Mashed Potatoes",
+                    "Steamed Vegetables",
+                    "Fruit Cup"
+                ]
+            },
+            "dinner": {
+                "entree": "Beef Stew",
+                "sides": [
+                    "Rice Pilaf",
+                    "Steamed Vegetables",
+                    "Mashed Potatoes"
+                ]
+            }
+        }
+    },
+    {
+        "day": 6,
+        "meals": {
+            "lunch": {
+                "entree": "Fish and Chips",
+                "sides": [
+                    "Garden Salad",
+                    "Fruit Cup",
+                    "Bread Roll",
+                    "Rice Pilaf",
+                    "Steamed Vegetables"
+                ]
+            },
+            "dinner": {
+                "entree": "Vegetable Stir Fry",
+                "sides": [
+                    "Mashed Potatoes",
+                    "Fruit Cup",
+                    "Bread Roll"
+                ]
+            }
+        }
+    },
+    {
+        "day": 7,
+        "meals": {
+            "lunch": {
+                "entree": "Spaghetti",
+                "sides": [
+                    "Garden Salad",
+                    "Fruit Cup",
+                    "Steamed Vegetables"
+                ]
+            },
+            "dinner": {
+                "entree": "Spaghetti",
+                "sides": [
+                    "Fruit Cup",
+                    "Steamed Vegetables",
+                    "Bread Roll"
+                ]
+            }
+        }
+    },
+    {
+        "day": 8,
+        "meals": {
+            "lunch": {
+                "entree": "Vegetable Stir Fry",
+                "sides": [
+                    "Steamed Vegetables",
+                    "Rice Pilaf",
+                    "Garden Salad",
+                    "Mashed Potatoes",
+                    "Bread Roll"
+                ]
+            },
+            "dinner": {
+                "entree": "Beef Stew",
+                "sides": [
+                    "Bread Roll",
+                    "Mashed Potatoes",
+                    "Fruit Cup"
+                ]
+            }
+        }
+    },
+    {
+        "day": 9,
+        "meals": {
+            "lunch": {
+                "entree": "Vegetable Stir Fry",
+                "sides": [
+                    "Bread Roll",
+                    "Mashed Potatoes",
+                    "Steamed Vegetables",
+                    "Fruit Cup"
+                ]
+            },
+            "dinner": {
+                "entree": "Spaghetti",
+                "sides": [
+                    "Bread Roll",
+                    "Garden Salad",
+                    "Mashed Potatoes",
+                    "Steamed Vegetables"
+                ]
+            }
+        }
+    },
+    {
+        "day": 10,
+        "meals": {
+            "lunch": {
+                "entree": "Spaghetti",
+                "sides": [
+                    "Rice Pilaf",
+                    "Bread Roll",
+                    "Steamed Vegetables",
+                    "Mashed Potatoes",
+                    "Fruit Cup"
+                ]
+            },
+            "dinner": {
+                "entree": "Grilled Chicken",
+                "sides": [
+                    "Steamed Vegetables",
+                    "Fruit Cup",
+                    "Bread Roll",
+                    "Garden Salad",
+                    "Mashed Potatoes"
+                ]
+            }
+        }
+    },
+    {
+        "day": 11,
+        "meals": {
+            "lunch": {
+                "entree": "Grilled Chicken",
+                "sides": [
+                    "Fruit Cup",
+                    "Mashed Potatoes",
+                    "Bread Roll",
+                    "Garden Salad"
+                ]
+            },
+            "dinner": {
+                "entree": "Grilled Chicken",
+                "sides": [
+                    "Steamed Vegetables",
+                    "Garden Salad",
+                    "Rice Pilaf",
+                    "Fruit Cup"
+                ]
+            }
+        }
+    },
+    {
+        "day": 12,
+        "meals": {
+            "lunch": {
+                "entree": "Spaghetti",
+                "sides": [
+                    "Mashed Potatoes",
+                    "Bread Roll",
+                    "Garden Salad",
+                    "Steamed Vegetables",
+                    "Rice Pilaf"
+                ]
+            },
+            "dinner": {
+                "entree": "Grilled Chicken",
+                "sides": [
+                    "Fruit Cup",
+                    "Steamed Vegetables",
+                    "Garden Salad",
+                    "Rice Pilaf",
+                    "Mashed Potatoes"
+                ]
+            }
+        }
+    },
+    {
+        "day": 13,
+        "meals": {
+            "lunch": {
+                "entree": "Grilled Chicken",
+                "sides": [
+                    "Garden Salad",
+                    "Bread Roll",
+                    "Mashed Potatoes"
+                ]
+            },
+            "dinner": {
+                "entree": "Grilled Chicken",
+                "sides": [
+                    "Bread Roll",
+                    "Garden Salad",
+                    "Fruit Cup",
+                    "Steamed Vegetables"
+                ]
+            }
+        }
+    },
+    {
+        "day": 14,
+        "meals": {
+            "lunch": {
+                "entree": "Spaghetti",
+                "sides": [
+                    "Mashed Potatoes",
+                    "Garden Salad",
+                    "Steamed Vegetables",
+                    "Rice Pilaf"
+                ]
+            },
+            "dinner": {
+                "entree": "Beef Stew",
+                "sides": [
+                    "Fruit Cup",
+                    "Bread Roll",
+                    "Steamed Vegetables",
+                    "Rice Pilaf",
+                    "Mashed Potatoes"
+                ]
+            }
+        }
+    },
+    {
+        "day": 15,
+        "meals": {
+            "lunch": {
+                "entree": "Spaghetti",
+                "sides": [
+                    "Bread Roll",
+                    "Garden Salad",
+                    "Mashed Potatoes",
+                    "Fruit Cup",
+                    "Rice Pilaf"
+                ]
+            },
+            "dinner": {
+                "entree": "Vegetable Stir Fry",
+                "sides": [
+                    "Garden Salad",
+                    "Steamed Vegetables",
+                    "Rice Pilaf",
+                    "Bread Roll",
+                    "Fruit Cup"
+                ]
+            }
+        }
+    },
+    {
+        "day": 16,
+        "meals": {
+            "lunch": {
+                "entree": "Vegetable Stir Fry",
+                "sides": [
+                    "Fruit Cup",
+                    "Steamed Vegetables",
+                    "Bread Roll",
+                    "Rice Pilaf"
+                ]
+            },
+            "dinner": {
+                "entree": "Beef Stew",
+                "sides": [
+                    "Rice Pilaf",
+                    "Bread Roll",
+                    "Mashed Potatoes"
+                ]
+            }
+        }
+    },
+    {
+        "day": 17,
+        "meals": {
+            "lunch": {
+                "entree": "Beef Stew",
+                "sides": [
+                    "Mashed Potatoes",
+                    "Steamed Vegetables",
+                    "Bread Roll",
+                    "Rice Pilaf"
+                ]
+            },
+            "dinner": {
+                "entree": "Grilled Chicken",
+                "sides": [
+                    "Fruit Cup",
+                    "Rice Pilaf",
+                    "Mashed Potatoes",
+                    "Steamed Vegetables"
+                ]
+            }
+        }
+    },
+    {
+        "day": 18,
+        "meals": {
+            "lunch": {
+                "entree": "Grilled Chicken",
+                "sides": [
+                    "Rice Pilaf",
+                    "Bread Roll",
+                    "Mashed Potatoes"
+                ]
+            },
+            "dinner": {
+                "entree": "Grilled Chicken",
+                "sides": [
+                    "Steamed Vegetables",
+                    "Rice Pilaf",
+                    "Bread Roll",
+                    "Mashed Potatoes"
+                ]
+            }
+        }
+    },
+    {
+        "day": 19,
+        "meals": {
+            "lunch": {
+                "entree": "Fish and Chips",
+                "sides": [
+                    "Garden Salad",
+                    "Rice Pilaf",
+                    "Steamed Vegetables"
+                ]
+            },
+            "dinner": {
+                "entree": "Fish and Chips",
+                "sides": [
+                    "Bread Roll",
+                    "Garden Salad",
+                    "Rice Pilaf"
+                ]
+            }
+        }
+    },
+    {
+        "day": 20,
+        "meals": {
+            "lunch": {
+                "entree": "Grilled Chicken",
+                "sides": [
+                    "Fruit Cup",
+                    "Mashed Potatoes",
+                    "Garden Salad"
+                ]
+            },
+            "dinner": {
+                "entree": "Beef Stew",
+                "sides": [
+                    "Steamed Vegetables",
+                    "Bread Roll",
+                    "Garden Salad"
+                ]
+            }
+        }
+    },
+    {
+        "day": 21,
+        "meals": {
+            "lunch": {
+                "entree": "Grilled Chicken",
+                "sides": [
+                    "Bread Roll",
+                    "Garden Salad",
+                    "Fruit Cup",
+                    "Rice Pilaf",
+                    "Mashed Potatoes"
+                ]
+            },
+            "dinner": {
+                "entree": "Beef Stew",
+                "sides": [
+                    "Rice Pilaf",
+                    "Garden Salad",
+                    "Fruit Cup",
+                    "Bread Roll",
+                    "Steamed Vegetables"
+                ]
+            }
+        }
+    },
+    {
+        "day": 22,
+        "meals": {
+            "lunch": {
+                "entree": "Vegetable Stir Fry",
+                "sides": [
+                    "Fruit Cup",
+                    "Rice Pilaf",
+                    "Mashed Potatoes",
+                    "Bread Roll",
+                    "Steamed Vegetables"
+                ]
+            },
+            "dinner": {
+                "entree": "Vegetable Stir Fry",
+                "sides": [
+                    "Bread Roll",
+                    "Steamed Vegetables",
+                    "Mashed Potatoes"
+                ]
+            }
+        }
+    },
+    {
+        "day": 23,
+        "meals": {
+            "lunch": {
+                "entree": "Fish and Chips",
+                "sides": [
+                    "Garden Salad",
+                    "Steamed Vegetables",
+                    "Mashed Potatoes",
+                    "Fruit Cup"
+                ]
+            },
+            "dinner": {
+                "entree": "Fish and Chips",
+                "sides": [
+                    "Rice Pilaf",
+                    "Mashed Potatoes",
+                    "Bread Roll"
+                ]
+            }
+        }
+    },
+    {
+        "day": 24,
+        "meals": {
+            "lunch": {
+                "entree": "Grilled Chicken",
+                "sides": [
+                    "Bread Roll",
+                    "Rice Pilaf",
+                    "Mashed Potatoes",
+                    "Fruit Cup",
+                    "Garden Salad"
+                ]
+            },
+            "dinner": {
+                "entree": "Grilled Chicken",
+                "sides": [
+                    "Mashed Potatoes",
+                    "Bread Roll",
+                    "Garden Salad"
+                ]
+            }
+        }
+    },
+    {
+        "day": 25,
+        "meals": {
+            "lunch": {
+                "entree": "Grilled Chicken",
+                "sides": [
+                    "Fruit Cup",
+                    "Bread Roll",
+                    "Mashed Potatoes"
+                ]
+            },
+            "dinner": {
+                "entree": "Fish and Chips",
+                "sides": [
+                    "Fruit Cup",
+                    "Mashed Potatoes",
+                    "Bread Roll"
+                ]
+            }
+        }
+    },
+    {
+        "day": 26,
+        "meals": {
+            "lunch": {
+                "entree": "Fish and Chips",
+                "sides": [
+                    "Steamed Vegetables",
+                    "Bread Roll",
+                    "Fruit Cup",
+                    "Mashed Potatoes"
+                ]
+            },
+            "dinner": {
+                "entree": "Fish and Chips",
+                "sides": [
+                    "Steamed Vegetables",
+                    "Bread Roll",
+                    "Garden Salad",
+                    "Mashed Potatoes"
+                ]
+            }
+        }
+    },
+    {
+        "day": 27,
+        "meals": {
+            "lunch": {
+                "entree": "Grilled Chicken",
+                "sides": [
+                    "Rice Pilaf",
+                    "Bread Roll",
+                    "Garden Salad"
+                ]
+            },
+            "dinner": {
+                "entree": "Spaghetti",
+                "sides": [
+                    "Garden Salad",
+                    "Steamed Vegetables",
+                    "Mashed Potatoes"
+                ]
+            }
+        }
+    },
+    {
+        "day": 28,
+        "meals": {
+            "lunch": {
+                "entree": "Vegetable Stir Fry",
+                "sides": [
+                    "Rice Pilaf",
+                    "Garden Salad",
+                    "Steamed Vegetables",
+                    "Bread Roll"
+                ]
+            },
+            "dinner": {
+                "entree": "Grilled Chicken",
+                "sides": [
+                    "Fruit Cup",
+                    "Mashed Potatoes",
+                    "Rice Pilaf"
+                ]
+            }
+        }
+    },
+    {
+        "day": 29,
+        "meals": {
+            "lunch": {
+                "entree": "Spaghetti",
+                "sides": [
+                    "Fruit Cup",
+                    "Steamed Vegetables",
+                    "Rice Pilaf",
+                    "Bread Roll"
+                ]
+            },
+            "dinner": {
+                "entree": "Fish and Chips",
+                "sides": [
+                    "Mashed Potatoes",
+                    "Garden Salad",
+                    "Bread Roll",
+                    "Fruit Cup",
+                    "Steamed Vegetables"
+                ]
+            }
+        }
+    },
+    {
+        "day": 30,
+        "meals": {
+            "lunch": {
+                "entree": "Beef Stew",
+                "sides": [
+                    "Garden Salad",
+                    "Fruit Cup",
+                    "Mashed Potatoes"
+                ]
+            },
+            "dinner": {
+                "entree": "Spaghetti",
+                "sides": [
+                    "Rice Pilaf",
+                    "Garden Salad",
+                    "Bread Roll",
+                    "Steamed Vegetables"
+                ]
+            }
+        }
+    },
+    {
+        "day": 31,
+        "meals": {
+            "lunch": {
+                "entree": "Grilled Chicken",
+                "sides": [
+                    "Fruit Cup",
+                    "Rice Pilaf",
+                    "Bread Roll",
+                    "Mashed Potatoes"
+                ]
+            },
+            "dinner": {
+                "entree": "Fish and Chips",
+                "sides": [
+                    "Fruit Cup",
+                    "Steamed Vegetables",
+                    "Bread Roll",
+                    "Garden Salad",
+                    "Rice Pilaf"
+                ]
+            }
+        }
+    },
+    {
+        "day": 32,
+        "meals": {
+            "lunch": {
+                "entree": "Fish and Chips",
+                "sides": [
+                    "Garden Salad",
+                    "Fruit Cup",
+                    "Rice Pilaf"
+                ]
+            },
+            "dinner": {
+                "entree": "Vegetable Stir Fry",
+                "sides": [
+                    "Steamed Vegetables",
+                    "Fruit Cup",
+                    "Bread Roll"
+                ]
+            }
+        }
+    },
+    {
+        "day": 33,
+        "meals": {
+            "lunch": {
+                "entree": "Beef Stew",
+                "sides": [
+                    "Rice Pilaf",
+                    "Mashed Potatoes",
+                    "Bread Roll"
+                ]
+            },
+            "dinner": {
+                "entree": "Spaghetti",
+                "sides": [
+                    "Bread Roll",
+                    "Fruit Cup",
+                    "Garden Salad",
+                    "Steamed Vegetables",
+                    "Rice Pilaf"
+                ]
+            }
+        }
+    },
+    {
+        "day": 34,
+        "meals": {
+            "lunch": {
+                "entree": "Grilled Chicken",
+                "sides": [
+                    "Bread Roll",
+                    "Rice Pilaf",
+                    "Mashed Potatoes"
+                ]
+            },
+            "dinner": {
+                "entree": "Fish and Chips",
+                "sides": [
+                    "Fruit Cup",
+                    "Mashed Potatoes",
+                    "Bread Roll"
+                ]
+            }
+        }
+    },
+    {
+        "day": 35,
+        "meals": {
+            "lunch": {
+                "entree": "Spaghetti",
+                "sides": [
+                    "Garden Salad",
+                    "Steamed Vegetables",
+                    "Bread Roll"
+                ]
+            },
+            "dinner": {
+                "entree": "Vegetable Stir Fry",
+                "sides": [
+                    "Bread Roll",
+                    "Rice Pilaf",
+                    "Steamed Vegetables",
+                    "Mashed Potatoes"
+                ]
+            }
+        }
+    }
+]
